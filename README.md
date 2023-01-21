@@ -17,6 +17,8 @@ In Kali Linux, type sudo apt install arjun -y
 
 -h: Show Help Option
 
+-t: Threads (1 is for fastest speed and 10 is for slowest)
+
 
 This tool currently have 4 modes that you can use:
 
