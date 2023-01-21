@@ -2,7 +2,7 @@
 Automates Arjun and speed up parameter bruteforcing with more speed & accuracy
 
 
-#Installing Arjun
+# Installing Arjun
 
 In Kali Linux, type sudo apt install arjun -y
 
